@@ -1,5 +1,6 @@
 # horiseon-code-refactor
+This repository is where you will find the corrected  
 
 
-![alt text](assets/images/screenshot.png)
+![Horiseon](Horiseon.PNG)
 ```
